@@ -19,7 +19,7 @@
 В качестве тестовых данных использовались данные :
 
 1. Тестируемый код скопирован [из домашнего задания университате "Нетология"](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
-1. Примеры карт выбраны со стороннего [сайта]()
+1. Примеры карт выбраны со стороннего [сайта](https://www.papabankir.ru/kreditnyye-karty/nomer-kreditnoy-karty/)
 1. Изменен номер карты из примера путем исправления последней цифры. [Пример из кода](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
 
