@@ -1,0 +1,10 @@
+1) Запуск текущего кода без исправлений -> Получено сообщение об успешном выполнении задания (Result is OK)
+2) Запуск кода с пустой картой -> Получено сообщение об ошибке (Result is False)
+3) Запуск кода с 17 символомами -> Получено сообщение об ошибке (Result is False)
+4) Запуск кода с 15 символоми -> Получено сообщение об ошибке (Result is False)
+5) Вставить в номер карты цифры с пробелами -> Получено сообщение об ошибке (Result is False)
+6) Вставить в номер карты символы -> Получено сообщение об ошибке (Result is False)
+7) Подстановка карт Visa с сайта https://www.papabankir.ru/kreditnyye-karty/nomer-kreditnoy-karty/
+8) Подстановка карт MasterCard с сайта https://www.papabankir.ru/kreditnyye-karty/nomer-kreditnoy-karty/
+9) Подстановка карт Maestro c сайта https://www.papabankir.ru/kreditnyye-karty/nomer-kreditnoy-karty/
+10) Подстановка прочих карт с сайта https://www.papabankir.ru/kreditnyye-karty/nomer-kreditnoy-karty/
